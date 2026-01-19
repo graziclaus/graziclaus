@@ -22,7 +22,7 @@
     <table>
       <tr>
         <td valign="top">
-          <img width="230" height="50" alt="Image" src="https://github.com/user-attachments/assets/2d820310-0b31-48ea-93e5-44eacd819683" />          
+          <img width="230" height="50" alt="Image" src="https://github.com/user-attachments/assets/e952f18f-e7a4-4a98-9d48-dbaff665ed9d" />          
           <p align="left">
             <a href="https://angular.io" target="_blank" rel="noreferrer">
               <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="60"/>
@@ -53,7 +53,7 @@
            </p>
          </td>
         <td valign="top">
-          <img width="230" height="50" alt="Image" src="https://github.com/user-attachments/assets/e952f18f-e7a4-4a98-9d48-dbaff665ed9d" />          
+          <img width="230" height="50" alt="Image" src="https://github.com/user-attachments/assets/2d820310-0b31-48ea-93e5-44eacd819683" />          
           <p align="left">
             <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
