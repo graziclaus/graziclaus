@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/544564aa-0c0b-48a0-b48e-94dd17d0a23e" alt="Image" />
+  <img src="https://github.com/user-attachments/assets/9f228188-0228-43b6-9475-e5ff44e1104d" alt="Image" />
 </p>
 
-![Image](https://github.com/user-attachments/assets/8e29105c-b4ca-418d-99a6-994d0ef84d41)
+![Image](https://github.com/user-attachments/assets/9f081e28-3d1f-48c9-be33-02497313efc3)
 
 <p align="center">
-  <img width="305" height="78" alt="Image" src="https://github.com/user-attachments/assets/94d2286e-e4b0-44eb-8956-b87f5f7a3150" />
+  <img width="305" height="78" alt="Image" src="https://github.com/user-attachments/assets/0d70b7ef-ccfd-41d4-b7a1-343335614606" />
 </p>
 
-![Image](https://github.com/user-attachments/assets/8e29105c-b4ca-418d-99a6-994d0ef84d41)
+![Image](https://github.com/user-attachments/assets/9f081e28-3d1f-48c9-be33-02497313efc3)
 
-<img width="215" height="78" alt="Image" src="https://github.com/user-attachments/assets/5e942154-fb5a-4f54-a4ab-915184b2ffde" />
+<img width="215" height="78" alt="Image" src="https://github.com/user-attachments/assets/90120ba9-aa33-4a7c-8759-1a9b49c50a5a" />
 
 <a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?width=1430&height=55&repeat=false&backgroundColor=%230d1117&center=false&vCenter=false&border=false&cursorStyle=block&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22%E2%94%80%E2%94%80%E2%94%80+%EF%BD%A5+%EF%BD%A1%EF%BE%9F%E2%98%86%3A+*.+INFP+%2F+Cat+Lover+%2F+Programming+Enthusiast+.*+%3A%E2%98%86%EF%BE%9F.+%E2%94%80%E2%94%80%E2%94%80%22%2C%22font%22%3A%22Funnel+Display%22%2C%22color%22%3A%22%23fbad83%22%2C%22fontSize%22%3A30%2C%22typingSpeed%22%3A0.03333333333333333%2C%22deleteSpeed%22%3A0.03333333333333333%7D%5D" alt="Typing SVG" /></a>
 
@@ -22,7 +22,7 @@
     <table>
       <tr>
         <td valign="top">
-          <img width="230" height="50" alt="Image" src="https://github.com/user-attachments/assets/e5e8a198-a3b4-41b0-8d46-23dfde3e3af0" />
+          <img width="230" height="50" alt="Image" src="https://github.com/user-attachments/assets/2d820310-0b31-48ea-93e5-44eacd819683" />          
           <p align="left">
             <a href="https://angular.io" target="_blank" rel="noreferrer">
               <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="60"/>
@@ -53,7 +53,7 @@
            </p>
          </td>
         <td valign="top">
-          <img width="230" height="50" alt="Image" src="https://github.com/user-attachments/assets/301fe40d-65fb-4d96-b6a1-f1e614f5be70" />
+          <img width="230" height="50" alt="Image" src="https://github.com/user-attachments/assets/e952f18f-e7a4-4a98-9d48-dbaff665ed9d" />          
           <p align="left">
             <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
@@ -107,7 +107,7 @@
 </td>
 
   <td valign="top">
-    <img width="287" height="80" alt="Image" src="https://github.com/user-attachments/assets/07ad63af-a692-4cf7-a98c-fcdb5b7b6256" />
+    <img width="287" height="80" alt="Image" src="https://github.com/user-attachments/assets/cb10c2af-92ac-415f-8ab1-107589c4a7ea" />
     <p>
           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=graziclaus&show_icons=true&theme=tokyonight&title_color=f87d2a&text_color=fbad83&hide_border=true&locale=en&layout=compact" width="600" alt="graziclaus" />
     </p>
@@ -118,5 +118,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=graziclaus&label=Profile%20views&color=9e5521&style=flat" alt="graziclaus" /> </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/686bce4a-0cd8-4188-abf7-60109a82acb8" alt="Image" />
+  <img src="https://github.com/user-attachments/assets/c270e4a1-c01a-451d-9ce1-ca6df0274fad" alt="Image" />
 </p>
+
+
