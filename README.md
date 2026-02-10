@@ -109,7 +109,7 @@
   <td valign="top">
     <img width="287" height="80" alt="Image" src="https://github.com/user-attachments/assets/cb10c2af-92ac-415f-8ab1-107589c4a7ea" />
     <p>
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=graziclaus&show_icons=true&theme=tokyonight&title_color=f87d2a&text_color=fbad83&hide_border=true&locale=en&layout=compact" width="600" alt="graziclaus" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=graziclaus&show_icons=true&theme=tokyonight&title_color=f87d2a&text_color=fbad83&hide_border=true&locale=en&layout=compact&cache_seconds=86400" width="600" alt="graziclaus" />
     </p>
   </td>
   </tr>
