@@ -15,6 +15,7 @@
 <a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?width=1625&height=355&repeat=false&backgroundColor=%230d1117&center=false&vCenter=false&border=false&cursorStyle=block&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22My+name+is+Grazielle+Claus%2C+a+full-stack+developer+seeking+new+knowledge.+%22%2C%22font%22%3A%22Funnel+Display%22%2C%22color%22%3A%22%23fbad83%22%2C%22fontSize%22%3A36%2C%22typingSpeed%22%3A0.03333333333333333%2C%22deleteSpeed%22%3A0.03333333333333333%7D%2C%7B%22text%22%3A%22I+am+currently+studying+at+PUCPR+and+hold+a+technical+degree+in+IT+from+%5CnIFPR.%22%2C%22font%22%3A%22Funnel+Display%22%2C%22color%22%3A%22%23fbad83%22%2C%22fontSize%22%3A36%2C%22typingSpeed%22%3A0.03333333333333333%2C%22deleteSpeed%22%3A0.03333333333333333%7D%2C%7B%22text%22%3A%22I+am+committed+to+continuous+learning+in+the+technology+field%2C+especially+%5Cnin+security%2C+cloud+computing%2C+APIs%2C+and+DevOps.%22%2C%22font%22%3A%22Funnel+Display%22%2C%22color%22%3A%22%23fbad83%22%2C%22fontSize%22%3A36%2C%22typingSpeed%22%3A0.03333333333333333%2C%22deleteSpeed%22%3A0.033311125916055964%7D%2C%7B%22text%22%3A%22I+am+skilled+in+HTML%2C+CSS%2C+JavaScript%2C+React%2C+PHP+%28Laravel%29%2C+Node.js%2C+and+Java.%22%2C%22font%22%3A%22Funnel+Display%22%2C%22color%22%3A%22%23fbad83%22%2C%22fontSize%22%3A36%2C%22typingSpeed%22%3A0.03333333333333333%2C%22deleteSpeed%22%3A0.03333333333333333%7D%5D" alt="Typing SVG" /></a>
 
 
+<p align="center">
   <table>
       <tr>
         <td valign="top">
@@ -50,7 +51,7 @@
          </td>
         <td valign="top">
           <img width="230" height="50" alt="Image" src="https://github.com/user-attachments/assets/2d820310-0b31-48ea-93e5-44eacd819683" />          
-          <p align="left">
+          <p align="center">
             <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
             </a>
@@ -100,6 +101,7 @@
         </p>  
       </td>
   </table>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=graziclaus&label=Profile%20views&color=9e5521&style=flat" alt="graziclaus" /> </p>
 
